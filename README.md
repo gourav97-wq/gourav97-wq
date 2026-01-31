@@ -1,28 +1,27 @@
 <!-- 🌟 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hello%2C%20I'm%20Gourav%20Panwar%20👋&fontSize=50&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hello%2C%20I'm%20Gourav%20Panwar%20👋&fontSize=50&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=36&duration=2000&pause=500&center=true&vCenter=true&width=800&height=80&color=FF6B6B%2CFFD93D%2C6BCB77%2C4D96FF&lines=Full+Stack+Developer+%26+UI%2FUX+Engineer+%F0%9F%92%BB;Building+Design+Systems+%26+Beautiful+Interfaces+%E2%9C%A8;Lifelong+Learner+%26+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&center=true&vCenter=true&width=800&height=80&lines=Full+Stack+Developer+💻;Java+%7C+MERN+Stack+Developer;Building+Scalable+Web+Applications+🚀" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-📍 Based in **Indore, Madhya Pradesh, India**  
-🎓 **Graduate 2025** from Chameli Devi Group of Institutions  
-💻 **Full-Stack JavaScript Developer** (MERN Stack)  
-🎯 Skilled in **OOP, DBMS, DSA**, and building **scalable web applications**  
-🎨 Passionate about **UI/UX**, **design systems**, and **reusable component libraries**  
-🚀 Experienced in **frontend architecture, product design, and UI engineering**  
-⚡ Love mentoring aspiring developers and sharing knowledge about **modern JS ecosystems**  
+📍 **Indore, Madhya Pradesh, India**  
+🎓 **B.Tech in Information Technology (2021–2025)** – RGPV  
+💻 **Full Stack Developer** (Java & MERN Stack)  
+🧠 Strong foundation in **OOP, DBMS, REST APIs**  
+🌐 Passionate about building **secure, scalable web applications**  
+🚀 Hands-on experience with **Spring Boot, React, Node.js**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gourav-panwar-5b5156284/">
@@ -38,47 +37,67 @@
 
 ---
 
-### 💼 Work Experience
+## 💼 Internship & Training
 
-*(You can add your internships or projects here if any)*
+### **Full Stack Web Development Trainee**  
+**Grow Tech – Dr. Reddy’s Foundation (2026)**  
+- Corporate-style full-time training in **MERN Stack**
+- Built full-stack applications using **React, Node.js, Express, MongoDB**
+- Developed REST APIs, authentication, and frontend–backend integration
+
+### **Java Full Stack Developer Trainee**  
+**Universal Informatics (2025)**  
+- Trained in **Java, Spring, Hibernate, MySQL**
+- Built web apps using **JSP, Servlets, REST APIs**
+- Gained strong backend and database integration experience
 
 ---
 
-## 🧰 Tech Toolbox
+## 🚀 Projects
 
-### 🏗️ Core Computer Science
-<p>
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Management%20Systems%20(DBMS)-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20(DSA)-green?style=for-the-badge" />
-</p>
+### **Smart Contact Manager**  
+**Java | Spring Boot | Spring Security | MySQL**  
+- Secure contact management system with authentication & email verification  
+- Managed multiple contacts with LinkedIn and custom fields  
+- Deployed on **Google Cloud Linux VM**
+- Used **Cron jobs** for scheduled execution
 
-### 👨‍💻 Languages
+### **ApplySeeker – Job Platform**  
+**HTML | CSS | JavaScript | React | Node.js**  
+- Job portal connecting recruiters and job seekers  
+- Implemented job posting, search, and application features  
+- Focused on usability and efficient matching  
+🔗 Live: https://applyseeker.netlify.app/
+
+---
+
+## 🧰 Technical Skills
+
+### 👨‍💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ### 🌐 Web Technologies
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🛠️ Developer Tools
@@ -89,15 +108,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
 ---
 
 ### ⚡ Fun Fact
-> “Code. Debug. Repeat. 🚀”
-
-
+> *Code. Build. Deploy. Repeat.* 🚀
